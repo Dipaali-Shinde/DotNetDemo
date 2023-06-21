@@ -1,0 +1,15 @@
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\bin\Debug\net7.0\AssignmentPractice.exe
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\bin\Debug\net7.0\AssignmentPractice.deps.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\bin\Debug\net7.0\AssignmentPractice.runtimeconfig.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\bin\Debug\net7.0\AssignmentPractice.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\bin\Debug\net7.0\AssignmentPractice.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.csproj.AssemblyReference.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.AssemblyInfoInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.AssemblyInfo.cs
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.csproj.CoreCompileInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\refint\AssignmentPractice.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\AssignmentPractice.genruntimeconfig.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\AssignmentPractice\obj\Debug\net7.0\ref\AssignmentPractice.dll

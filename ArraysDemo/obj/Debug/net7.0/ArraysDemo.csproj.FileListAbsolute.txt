@@ -1,0 +1,15 @@
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\bin\Debug\net7.0\ArraysDemo.exe
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\bin\Debug\net7.0\ArraysDemo.deps.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\bin\Debug\net7.0\ArraysDemo.runtimeconfig.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\bin\Debug\net7.0\ArraysDemo.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\bin\Debug\net7.0\ArraysDemo.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.csproj.AssemblyReference.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.AssemblyInfoInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.AssemblyInfo.cs
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.csproj.CoreCompileInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\refint\ArraysDemo.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ArraysDemo.genruntimeconfig.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ArraysDemo\obj\Debug\net7.0\ref\ArraysDemo.dll
