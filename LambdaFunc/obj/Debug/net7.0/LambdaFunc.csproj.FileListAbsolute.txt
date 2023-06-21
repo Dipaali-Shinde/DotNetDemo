@@ -1,0 +1,15 @@
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.csproj.AssemblyReference.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.AssemblyInfoInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.AssemblyInfo.cs
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.csproj.CoreCompileInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\bin\Debug\net7.0\LambdaFunc.exe
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\bin\Debug\net7.0\LambdaFunc.deps.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\bin\Debug\net7.0\LambdaFunc.runtimeconfig.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\bin\Debug\net7.0\LambdaFunc.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\bin\Debug\net7.0\LambdaFunc.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\refint\LambdaFunc.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\LambdaFunc.genruntimeconfig.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LambdaFunc\obj\Debug\net7.0\ref\LambdaFunc.dll
