@@ -1,0 +1,15 @@
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\bin\Debug\net7.0\LINQSamples.exe
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\bin\Debug\net7.0\LINQSamples.deps.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\bin\Debug\net7.0\LINQSamples.runtimeconfig.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\bin\Debug\net7.0\LINQSamples.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\bin\Debug\net7.0\LINQSamples.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.csproj.AssemblyReference.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.AssemblyInfoInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.AssemblyInfo.cs
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.csproj.CoreCompileInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\refint\LINQSamples.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\LINQSamples.genruntimeconfig.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\LINQSamples\obj\Debug\net7.0\ref\LINQSamples.dll
