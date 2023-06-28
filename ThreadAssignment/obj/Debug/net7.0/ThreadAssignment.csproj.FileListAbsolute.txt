@@ -1,0 +1,15 @@
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\bin\Debug\net7.0\ThreadAssignment.exe
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\bin\Debug\net7.0\ThreadAssignment.deps.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\bin\Debug\net7.0\ThreadAssignment.runtimeconfig.json
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\bin\Debug\net7.0\ThreadAssignment.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\bin\Debug\net7.0\ThreadAssignment.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.csproj.AssemblyReference.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.AssemblyInfoInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.AssemblyInfo.cs
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.csproj.CoreCompileInputs.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\refint\ThreadAssignment.dll
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.pdb
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ThreadAssignment.genruntimeconfig.cache
+D:\Cdac\Cdac Lab Practical\Practical Program\dot net\ThreadAssignment\obj\Debug\net7.0\ref\ThreadAssignment.dll
